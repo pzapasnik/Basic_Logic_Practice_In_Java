@@ -1,2 +1,1 @@
-# Warsztaty_1
-Warsztaty po pierwszym module JAVA
+This Repository is old and was created for practice basic programming in java
